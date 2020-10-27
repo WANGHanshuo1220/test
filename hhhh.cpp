@@ -2,6 +2,6 @@
 
 int main()
 {
-	std::cout<<"hhhhhhhhh"<<std::endl;
+	std::cout<<"55"<<std::endl;
 	return 0;
 }
